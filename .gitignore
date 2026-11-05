@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database (Production me deploy hone par local DB push nahi karna chahiye)
+*.sqlite3
+db.sqlite3
+
+# Environment Variables & Secrets
+.env
+local_settings.py
+
+# Static files cache
+collected_static/
+
+# VS Code settings
+.vscode/
+
+frontend/node_modules/
+frontend/dist/
