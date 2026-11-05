@@ -36,7 +36,7 @@ function App() {
   const [isOrdersOpen, setIsOrdersOpen] = useState(false)
   const [ordersLoading, setOrdersLoading] = useState(false)
 
-  const BASE_URL = 'http://127.0.0.1:8000'
+  const BASE_URL = 'https://ecommerce-fullstack-vx6g.onrender.com'
 
   const getAuthConfig = () => ({
     headers: { Authorization: `Token ${token}` }
