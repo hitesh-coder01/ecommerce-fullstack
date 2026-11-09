@@ -15,7 +15,12 @@ A production-ready e-commerce web application built using Django REST Framework 
 ---
 
 ## 📸 Screenshots
-*(Aap apne 2-3 screenshots yahan GitHub editor me seedha drag-and-drop / paste kar sakte hain)*
+*<img width="1521" height="883" alt="image" src="https://github.com/user-attachments/assets/9c44aa8d-98e3-42af-b2f9-10b5643f258e" />
+<img width="1457" height="848" alt="image" src="https://github.com/user-attachments/assets/4e3aa1c9-664b-4a40-8311-e7f4c3d61cf5" />
+<img width="1710" height="865" alt="image" src="https://github.com/user-attachments/assets/6b96ad8c-106e-45dd-b0b7-f5f892509c69" />
+
+
+*
 
 ---
 
